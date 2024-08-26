@@ -1,7 +1,7 @@
 # JavaScript enablement 4 Plumsail Forms developers
 This is an enablement/learning repository. It aims to teach modern JavaScript for SharePoint Online and Plumsail Forms developers.
 ## ToDos:
-0. copy this file to "./src/{yourname}.html" (so you can refer to it, if something breaks)
+0. copy the file [./src/index.html](./src/index.html) to "./src/{yourname}.html" (so you can refer to it, if something breaks)
 1. try to understand the code and add your name and location to the footer element
 2. instead of login successful write "Welcome {username}" and instead of login failed write "Invalid Credentials". Change the password to "{yourname!}".
 3. implement the secret button feature (tip: register a click event on the secret button)
